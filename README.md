@@ -1,7 +1,6 @@
 # Fibonacci
 Receba um número inteiro ```N```. Exiba os ```N``` primeiros números da sequência de sequência de Fibonacci.
 
-![image](https://user-images.githubusercontent.com/78987318/119883755-43045b00-bf06-11eb-84da-0ee443c022d4.png ) 
 Nesta sequência, os dois primeiros números são 0 e 1. Os próximos números são a soma dos dois números anteriores.
 
 ```
